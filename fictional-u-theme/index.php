@@ -12,7 +12,5 @@ createSentence("Dan", "Purple");
     </h1>
     <h3>
         <?php bloginfo('description'); ?>
-        iuhqwerilhuqweh
     </h3>
-    ;qielclihqwi
 </div>
